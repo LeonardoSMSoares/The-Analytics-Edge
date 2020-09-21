@@ -1,5 +1,5 @@
 # The-Analytics-Edge
-MIT course - MITx:15.071x
+MIT course - MITx:15.071x - Analytics in R
 
 Unit 1 - An Introduction to Analytics
 
